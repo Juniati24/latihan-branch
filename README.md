@@ -1,3 +1,4 @@
 **Ini adalah repository untuk latihan membuat branch baru di GitHub**
 ==
-Github itu asik lo
+Belajar Github di Dicoding seru lo
+
